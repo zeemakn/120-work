@@ -8,3 +8,5 @@ The document was created in Windows Command Prompt using the spell 'call>', not 
 I added a new line to this file in my text editor
 
 I do not know how to open this file from my Command Prompt. I'm a clicker, for now.
+
+Thus far, I have wasted hours in this class. I have faith I will understand it soon.
