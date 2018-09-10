@@ -11,4 +11,4 @@ Learned about text editors, GitHub, GUI, Markup & Markdown
 4. I need to learn more about all of the programs and language being used because learning this type material is a knot in my shoulder.
 5. I helped fellow classmates understand a [Windows Mac translation.](https://github.com/Montana-Media-Arts/120_CreativeCoding/issues/117)
 
-![Image of my editor](Screenshot(1058).png)
+![Image of my editor](Screenshot (1058).png)
