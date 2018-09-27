@@ -5,7 +5,7 @@ This is my first text document for one of Dr. Musick's Media Arts courses.
 
 The document was created in Windows Command Prompt using the spell 'call>', not 'new-item' which really pissed me off for about 20 minutes. I almost blew out my large intestine.
 
-I added a new line to this file in my text editor
+I added a new line to this file in my text editor.
 
 I do not know how to open this file from my Command Prompt. I'm a clicker, for now.
 
